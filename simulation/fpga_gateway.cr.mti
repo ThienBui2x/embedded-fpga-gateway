@@ -1,0 +1,22 @@
+D:/04_Arbeiten/01_Workspace/quartus/fpga_gateway/simulation/top_tb.v {1 {vlog -work work -stats=none D:/04_Arbeiten/01_Workspace/quartus/fpga_gateway/simulation/top_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} D:/04_Arbeiten/01_Workspace/quartus/fpga_gateway/rtl/gf_test.v {1 {vlog -work work -stats=none D:/04_Arbeiten/01_Workspace/quartus/fpga_gateway/rtl/gf_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module gf_test
+
+Top level modules:
+	gf_test
+
+} {} {}} D:/04_Arbeiten/01_Workspace/quartus/fpga_gateway/rtl/gf_lut.v {1 {vlog -work work -stats=none D:/04_Arbeiten/01_Workspace/quartus/fpga_gateway/rtl/gf_lut.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module gf_lut
+
+Top level modules:
+	gf_lut
+
+} {} {}}
